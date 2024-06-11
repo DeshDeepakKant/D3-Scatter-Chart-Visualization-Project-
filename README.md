@@ -51,11 +51,8 @@ git clone https://github.com/DeshDeepakKant/cycling-performance-viz.git
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
-Desh Deepak Kant - [GitHub Profile](https://github.com/DeshDeepakKant)
-
 ## Acknowledgments
-- FreeCodeCamp
+- FreeCodeCamp3
 - D3.js Community
 - Open-source data providers
 
