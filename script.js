@@ -169,3 +169,4 @@ function createChart(dataset) {
         .text("Riders with doping allegations")
         .attr("fill", "white");
 }
+
